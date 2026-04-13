@@ -1,0 +1,5 @@
+total 28
+-rwxrwxrwx 1 nguyen_dao_nam_hai nguyen_dao_nam_hai     0 Apr 13 10:51 out.txt
+-rwxrwxrwx 1 nguyen_dao_nam_hai nguyen_dao_nam_hai 17056 Apr 13 10:50 telnet_server
+-rwxrwxrwx 1 nguyen_dao_nam_hai nguyen_dao_nam_hai  5236 Apr 13 10:48 telnet_server.c
+-rwxrwxrwx 1 nguyen_dao_nam_hai nguyen_dao_nam_hai    25 Apr 13 10:47 users.txt
